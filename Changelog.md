@@ -4,7 +4,7 @@ This file contains the notable changes to the project
 Version 1.0.0 (09-26-2024)
 ## New
     - Calculated the number of salespersons working from"NY" using COUNTIF function.
-    - Added Column "AveCost" to track average item cost
+    - Created sum of all sales more than $500.00 using SUMIF function.
 
 ## Changes 
     - Changed date format to MM-DD-YYYY
