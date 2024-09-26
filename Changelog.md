@@ -1,9 +1,9 @@
 # Changelog
 This file contains the notable changes to the project
 
-Version 1.0.0 (02-23-2019)
+Version 1.0.0 (09-26-2024)
 ## New
-    - Added column classifiers (Date, Time, PerUnitCost, TotalCost, etc. )
+    - Calculated the number of salespersons working from"NY" using COUNTIF function.
     - Added Column "AveCost" to track average item cost
 
 ## Changes 
