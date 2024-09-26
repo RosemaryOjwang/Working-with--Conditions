@@ -7,6 +7,7 @@ Version 1.0.0 (09-26-2024)
     - Created sum of all sales more than $500.00 using SUMIF function.
     -Summed only the sales from New York using SUMIF function.
     -calculated the average sales per salesperson in New York using AVERAGEIF function.
+    -Established the maximum sales from any salesperson in New York using the MAXIFS function.
 
 ## Changes 
     - Changed date format to MM-DD-YYYY
